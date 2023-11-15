@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#player{
+    width: 150px;
+    height: 80px;
+    background-color: blueviolet;
+    position:absolute;
+    top: 550px;
+    left:600px
+}
+
+#ball{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    left:600px;
+    top: 50px;
+    border-radius: 30px;
+    position: absolute;
+}
+
+img{
+    width: 150px;
+    height: 80px;
+}
